@@ -14,7 +14,7 @@
 I'm a solo full-stack developer with 5+ years of experience building and shipping production mobile and web apps end to end — design, backend, mobile, and deployment. I run **Rapidcodes**, where I build marketplace and utility apps sold on CodeCanyon, and I also take on freelance engagements on Upwork.
 
 - 🏗️ Currently building **RapidServ**, a home-services marketplace app with AI-powered features
-- 📓 Also developing **Folio**, an AI-first journaling app with an in-app writing assistant
+- 📓 Also developing **Jrnl**, an AI-first journaling app with an in-app writing assistant
 - 💸 Maintain **Xpense**, a live expense-tracking app for the Pakistani market
 - 🚕 Built **Rapidx**, a white-label ride-hailing & food delivery platform
 - ✍️ I write about indie development and building in public on LinkedIn
