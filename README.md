@@ -45,13 +45,13 @@ I'm a solo full-stack developer with 5+ years of experience building and shippin
 
 ---
 
-### 🛍️ Featured Work
+### 🛍️ Personal Projects
 
 | Project | Description |
 |---|---|
 | **RapidServ** | Home-services marketplace app — multi-role platform with AI-powered matching & assistance features |
-| **Rapidx** | White-label ride-hailing & food delivery platform for CodeCanyon |
-| **Folio** | AI-first journaling app with an in-app writing assistant |
+| **RapidX** | White-label ride-hailing & food delivery platform for CodeCanyon |
+| **Jrnl** | AI-first journaling app with an in-app writing assistant |
 | **Xpense** | Personal expense tracker, live on the Play Store |
 
 ---
